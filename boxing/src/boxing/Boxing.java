@@ -15,8 +15,8 @@ public class Boxing {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        POSFrame mainForm = new POSFrame();
-            mainForm.setVisible(true);
+        LoginFrame login = new LoginFrame();
+        login.setVisible(true);
     }
     
 }
